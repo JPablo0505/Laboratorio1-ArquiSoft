@@ -6,3 +6,4 @@ Se realizó un banco de la Universidad de Antioquia usando SpringBoot y React
 - Mariana Martinez 
 - Juan Pablo Valencia
 - Juan Pablo Ramos
+- Mario Alvarez
